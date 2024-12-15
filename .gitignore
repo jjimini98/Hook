@@ -1,0 +1,9 @@
+//
+//  .gitignore
+//  Hook
+//
+//  Created by Jimin Yoo on 12/15/24.
+//
+
+.DS_Store
+.gitignore
